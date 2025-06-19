@@ -16,8 +16,8 @@ Sebuah program sederhana Python untuk mencari nomor telepon berdasarkan nama men
 ## 🚀 Cara Menjalankan
 
 1. Pastikan Python sudah terpasang di komputer kamu (minimal Python 3.6)
-2. Clone repo ini atau download file `main.py`
+2. Clone repo ini atau download file `phonebook-search.py`
 3. Jalankan dengan perintah:
 
 ```bash
-python main.py
+python phonebook-search.py
